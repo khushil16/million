@@ -1,4 +1,4 @@
-# Wealth Quest 3d
+# MILLIONS
 
 Build a visually extraordinary, production-quality, 3D interactive financial planning web application called MILLION / ONE for the hackathon problem statement “The Honest Million: Too many options. One big goal.”
 
